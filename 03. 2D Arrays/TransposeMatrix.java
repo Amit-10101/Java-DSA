@@ -41,8 +41,5 @@ public class TransposeMatrix {
         print(arr);
 
         transpose(arr);
-
-        // System.out.println("Transposed Matrix:");
-        // print(arr);
     }
 }
