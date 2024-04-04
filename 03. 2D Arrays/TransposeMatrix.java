@@ -40,6 +40,6 @@ public class TransposeMatrix {
         System.out.println("Original Matrix:");
         print(arr);
 
-        transpose(arr);
+        // transpose(arr);
     }
 }
